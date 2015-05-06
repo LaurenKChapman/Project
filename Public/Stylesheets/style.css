@@ -5,7 +5,7 @@ body {
 
 body h1 {
 font-family: monospace;
-font-size: 43.5;
+font-size: 47.5;
 color: black;
 padding-left: 20px;
 }
@@ -27,8 +27,8 @@ form {
 }
 
 .form-control {
-  width: 33%;
-  height: 26px;
+  width: 32%;
+  height: 28px;
 }
 .btn {
   line-height: 7px;
@@ -45,4 +45,9 @@ form {
 .h1, .h2, .h3, h1, h2, h3 {
   margin-top: 5px;
   margin-bottom: 5px;
+}
+
+.Signup {
+  padding-left: 735px;
+  width: 172%;
 }
